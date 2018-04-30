@@ -6,8 +6,8 @@ Although the parameters aren't fine tuned, it chieved an test accuracy over 90% 
 
 ## requirements
 
-'''sh
+```sh
 pip install jieba pandas numpy keras
-'''
+```
 
 worked on python3, untested on python2
